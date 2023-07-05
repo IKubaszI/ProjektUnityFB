@@ -1,0 +1,21 @@
+Instrukcja do gry:
+Spacja/Lewy przycisk myszy - Lot Ptaka
+R/Enter/Naciśnięcie przycisku na ekranie GameOver - Restart Gry
+Esc/Naciśnięcie przycisku w prawym górnym rogu ekranu - Wyjście z gry
+P - Paza
+
+
+Opis:
+Gracz musi przelatywać przez szpary między rurami zdobywając przy tym punkty po zdobyciu określonego progu punktowego dostaje medal oraz zmienia się tło oraz trudność rozgrywki. Jego najlepszy wynik jest zapisywany. Gdy osiągnie lepszy wynik zostanie poinformowany przez znaczek "NEW" 
+
+Progi punktowe:
+0 - 10 - miedźiany medal
+10-20 - żelazny medal
+20-30 - srebny medal
+30> - złoty medal
+
+po osiągnięciu progu 20 punktów zmienia się tło oraz trudność.
+
+Kod Oszustw (aby łatwiej było testować)
+1 - dodaje punkty
+2 - resetuje najlepszy wynik
